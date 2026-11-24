@@ -1,0 +1,6 @@
+{
+  "name": "VisionPulse",
+  "description": "Computer vision research video library with topic-first table of contents, searchable transcripts, AI-summarized insights, and weekly trending publications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
